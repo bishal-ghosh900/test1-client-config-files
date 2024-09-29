@@ -1,3 +1,3 @@
 custom:
-  build-version: 2.0
-  java-version: 22
+  build-version: "{cipher}f8dc9defa3e4966eba135a785e7abd3e40b5ade2e45cd3095f92505478e07bbb"
+  java-version: "{cipher}b8698d3d569599160d8bf97aa0b230d9f8c0e70b830e692ed6a2639f65fb029e"
